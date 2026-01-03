@@ -1,0 +1,13 @@
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code (opcional – mas você pode manter settings.json)
+.vscode/*
+!.vscode/settings.json
